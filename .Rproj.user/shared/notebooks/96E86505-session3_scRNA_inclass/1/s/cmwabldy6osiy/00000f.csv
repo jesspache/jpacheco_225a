@@ -1,0 +1,5 @@
+"0","#create a ""processed_data"" dir"
+"0","dir.create('./../processed_data/')"
+"0",""
+"0","saveRDS(Tcells, file = ""../processed_data/Tcells_analyzed.rds"")"
+"0","# Tcells <- readRDS(""../processed_data/Tcells_analyzed.rds""))"

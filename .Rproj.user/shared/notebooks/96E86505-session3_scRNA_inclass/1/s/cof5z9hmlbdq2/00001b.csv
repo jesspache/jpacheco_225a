@@ -1,0 +1,6 @@
+"0",""
+"0","# this code took 4 mins to run on a machine with 32gb ram"
+"0","# recommend running on your own time"
+"0","# Tcells <- JackStraw(object = Tcells, num.replicate = 100, dims = 20, verbose = TRUE)"
+"0","# Tcells <- ScoreJackStraw(Tcells, dims = 1:20)"
+"0","# JackStrawPlot(Tcells, dims = 1:20)"
